@@ -1,5 +1,5 @@
 # wc-clean-process
-A short program code for coders to clean WC after use.
+A short JS code for coders to clean WC after use.
 
 ## Purpose
 
@@ -19,3 +19,8 @@ Coders only understand Code... So here is a little program to help them to clean
 ## Update
 
 Feel free to place a PR on this code to help me.
+
+## Tests
+```
+$ node beforeQuit-wc.js
+```
